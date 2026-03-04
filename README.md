@@ -1,5 +1,5 @@
 # Meth Stealer
-Usage is for educational purposes only.
+**NOTE: Usage is for educational purposes only.**
 
 Logs:
   - Cryptowallets
@@ -14,3 +14,7 @@ Logs:
 
 ## How to launch
 First, modify the config/webhooks.py file to have your webhooks. Then compile main.py, it's that simple.
+
+## What not to do
+Do not modify any other file, the stealer will be broken.
+Do not distribute this in a way that harms others.
